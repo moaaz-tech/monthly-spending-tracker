@@ -46,18 +46,6 @@ A premium digital budgeting toolkit available in **3 formats** to fit any workfl
 
 ---
 
-## 🛒 Get It on Etsy
-
-👉 [Buy on Etsy](#) ← *(add your Etsy link here)*
-
----
-
-## 📸 Preview
-
-*(add screenshots here after uploading)*
-
----
-
 ## 📄 License
 
 This product is for **personal use only**.
@@ -65,4 +53,4 @@ Redistribution or resale is not permitted.
 
 ---
 
-<p align="center">Made with ❤️ | © 2025 All Rights Reserved</p>
+<p align="center">Made with ❤️ | © 2026 All Rights Reserved</p>
