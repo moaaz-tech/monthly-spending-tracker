@@ -30,19 +30,24 @@ A premium digital budgeting toolkit available in **3 formats** to fit any workfl
 ## 🚀 How to Use
 
 ### Excel Version
-1. Download `tracker.xlsx`
+1. Download `spending_tracker.xlsx`
 2. Open with Microsoft Excel or Google Sheets
 3. Start entering your data in Sheet 1
 
 ### Web App Version
-1. Download `index.html`
+1. Download `spending_tracker.html`
 2. Open it in any browser (Chrome, Firefox, Safari)
 3. Use it directly — no setup needed
 
 ### Notion Version
-1. Copy the AI prompt from `notion-prompts.txt`
+1. Copy the AI prompt from `notion_prompts.md`
 2. Paste it into Notion AI
 3. Get a fully built tracker in seconds
+
+### Zip Version
+1. Download zip file `monthly_tracker.zip`
+2. Extract the file
+3. Open the files that you extracted
 
 ---
 
